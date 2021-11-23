@@ -1,0 +1,6 @@
+C:\Users\jorgi\Desktop\Proto\Parcial3\CapaModeloVentas\bin\Debug\CapaModeloVentas.dll
+C:\Users\jorgi\Desktop\Proto\Parcial3\CapaModeloVentas\bin\Debug\CapaModeloVentas.pdb
+C:\Users\jorgi\Desktop\Proto\Parcial3\CapaModeloVentas\obj\Debug\CapaModeloVentas.csprojAssemblyReference.cache
+C:\Users\jorgi\Desktop\Proto\Parcial3\CapaModeloVentas\obj\Debug\CapaModeloVentas.csproj.CoreCompileInputs.cache
+C:\Users\jorgi\Desktop\Proto\Parcial3\CapaModeloVentas\obj\Debug\CapaModeloVentas.dll
+C:\Users\jorgi\Desktop\Proto\Parcial3\CapaModeloVentas\obj\Debug\CapaModeloVentas.pdb

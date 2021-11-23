@@ -1,0 +1,9 @@
+C:\Users\jorgi\Desktop\Proto\Componentes\Reporteador\ComponenteReporteador\CapaControladorReporte\bin\Debug\CapaControladorReporte.dll
+C:\Users\jorgi\Desktop\Proto\Componentes\Reporteador\ComponenteReporteador\CapaControladorReporte\bin\Debug\CapaControladorReporte.pdb
+C:\Users\jorgi\Desktop\Proto\Componentes\Reporteador\ComponenteReporteador\CapaControladorReporte\bin\Debug\CapaModeloReporte.dll
+C:\Users\jorgi\Desktop\Proto\Componentes\Reporteador\ComponenteReporteador\CapaControladorReporte\bin\Debug\CapaModeloReporte.pdb
+C:\Users\jorgi\Desktop\Proto\Componentes\Reporteador\ComponenteReporteador\CapaControladorReporte\obj\Debug\CapaControladorReporte.csprojAssemblyReference.cache
+C:\Users\jorgi\Desktop\Proto\Componentes\Reporteador\ComponenteReporteador\CapaControladorReporte\obj\Debug\CapaControladorReporte.csproj.CoreCompileInputs.cache
+C:\Users\jorgi\Desktop\Proto\Componentes\Reporteador\ComponenteReporteador\CapaControladorReporte\obj\Debug\CapaControladorReporte.csproj.CopyComplete
+C:\Users\jorgi\Desktop\Proto\Componentes\Reporteador\ComponenteReporteador\CapaControladorReporte\obj\Debug\CapaControladorReporte.dll
+C:\Users\jorgi\Desktop\Proto\Componentes\Reporteador\ComponenteReporteador\CapaControladorReporte\obj\Debug\CapaControladorReporte.pdb

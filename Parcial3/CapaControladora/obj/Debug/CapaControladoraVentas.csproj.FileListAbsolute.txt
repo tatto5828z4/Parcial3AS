@@ -1,0 +1,9 @@
+C:\Users\jorgi\Desktop\Proto\Parcial3\CapaControladora\bin\Debug\CapaControladoraVentas.dll
+C:\Users\jorgi\Desktop\Proto\Parcial3\CapaControladora\bin\Debug\CapaControladoraVentas.pdb
+C:\Users\jorgi\Desktop\Proto\Parcial3\CapaControladora\obj\Debug\CapaControladoraVentas.csprojAssemblyReference.cache
+C:\Users\jorgi\Desktop\Proto\Parcial3\CapaControladora\obj\Debug\CapaControladoraVentas.csproj.CoreCompileInputs.cache
+C:\Users\jorgi\Desktop\Proto\Parcial3\CapaControladora\obj\Debug\CapaControladoraVentas.dll
+C:\Users\jorgi\Desktop\Proto\Parcial3\CapaControladora\obj\Debug\CapaControladoraVentas.pdb
+C:\Users\jorgi\Desktop\Proto\Parcial3\CapaControladora\bin\Debug\CapaModeloVentas.dll
+C:\Users\jorgi\Desktop\Proto\Parcial3\CapaControladora\bin\Debug\CapaModeloVentas.pdb
+C:\Users\jorgi\Desktop\Proto\Parcial3\CapaControladora\obj\Debug\CapaControladoraVentas.csproj.CopyComplete

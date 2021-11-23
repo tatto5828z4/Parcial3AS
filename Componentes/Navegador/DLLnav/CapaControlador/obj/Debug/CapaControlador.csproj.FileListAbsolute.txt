@@ -1,0 +1,11 @@
+C:\Users\jorgi\Desktop\Proto\Componentes\Navegador\DLLnav\CapaControlador\bin\Debug\CapaControladorNav.dll
+C:\Users\jorgi\Desktop\Proto\Componentes\Navegador\DLLnav\CapaControlador\bin\Debug\CapaControladorNav.pdb
+C:\Users\jorgi\Desktop\Proto\Componentes\Navegador\DLLnav\CapaControlador\bin\Debug\CapaModeloNav.dll
+C:\Users\jorgi\Desktop\Proto\Componentes\Navegador\DLLnav\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\jorgi\Desktop\Proto\Componentes\Navegador\DLLnav\CapaControlador\bin\Debug\CapaModeloNav.pdb
+C:\Users\jorgi\Desktop\Proto\Componentes\Navegador\DLLnav\CapaControlador\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\jorgi\Desktop\Proto\Componentes\Navegador\DLLnav\CapaControlador\obj\Debug\CapaControlador.csprojAssemblyReference.cache
+C:\Users\jorgi\Desktop\Proto\Componentes\Navegador\DLLnav\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+C:\Users\jorgi\Desktop\Proto\Componentes\Navegador\DLLnav\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+C:\Users\jorgi\Desktop\Proto\Componentes\Navegador\DLLnav\CapaControlador\obj\Debug\CapaControladorNav.dll
+C:\Users\jorgi\Desktop\Proto\Componentes\Navegador\DLLnav\CapaControlador\obj\Debug\CapaControladorNav.pdb

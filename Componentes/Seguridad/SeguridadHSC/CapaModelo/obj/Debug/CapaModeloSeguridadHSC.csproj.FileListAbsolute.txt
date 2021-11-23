@@ -1,0 +1,6 @@
+C:\Users\jorgi\Desktop\Proto\Componentes\Seguridad\SeguridadHSC\CapaModelo\bin\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\jorgi\Desktop\Proto\Componentes\Seguridad\SeguridadHSC\CapaModelo\bin\Debug\CapaModeloSeguridadHSC.pdb
+C:\Users\jorgi\Desktop\Proto\Componentes\Seguridad\SeguridadHSC\CapaModelo\obj\Debug\CapaModeloSeguridadHSC.csprojAssemblyReference.cache
+C:\Users\jorgi\Desktop\Proto\Componentes\Seguridad\SeguridadHSC\CapaModelo\obj\Debug\CapaModeloSeguridadHSC.csproj.CoreCompileInputs.cache
+C:\Users\jorgi\Desktop\Proto\Componentes\Seguridad\SeguridadHSC\CapaModelo\obj\Debug\CapaModeloSeguridadHSC.dll
+C:\Users\jorgi\Desktop\Proto\Componentes\Seguridad\SeguridadHSC\CapaModelo\obj\Debug\CapaModeloSeguridadHSC.pdb
